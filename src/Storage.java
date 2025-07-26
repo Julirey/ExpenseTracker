@@ -5,7 +5,6 @@ import java.util.ArrayList;
 /**
  * Storage is a utility class that helps with the retrieval,
  * and storage of an ArrayList of Expense items.
- * and price of an item.
  * @class
  */
 public class Storage {
