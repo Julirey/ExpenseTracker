@@ -1,0 +1,2 @@
+1999-01-01,Birthday cake,20.0
+2025-10-20,Halloween costume,60.0
