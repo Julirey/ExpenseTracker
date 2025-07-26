@@ -4,7 +4,7 @@ Expense Tracker is a console program that helps users track their daily expenses
 
 The purpose of this software is to serve a basic tracking program for users to record their purchases in simplest way possible, so that they can easily share it with other people or directly access the data to utilize as needed. It is made deliberately featureless to allow for anyone to modify it as needed.
 
-[Software Demo Video](#)
+[Software Demo Video](https://www.youtube.com/watch?v=NnYda6x52vU)
 
 ## Development Environment
 
